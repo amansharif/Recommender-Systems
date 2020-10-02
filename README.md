@@ -17,3 +17,7 @@ There are so many approaches for this category but the most popular one is Non-N
 This is one of the advanced versions of NMF. It came into picture in 2014. Below is the demo with dummy utility matrix.
 ![](matrices.png)
 ![](error_graph.png)
+
+## Acknowledgment
+- Thanks Professor Dr. S.P. Syed Ibrahim [LinkedIn](https://www.linkedin.com/in/syedibrahimsp/) for mentoring.
+- Thanks Research Scholar G. Suganeshwari [Google Scholar](https://scholar.google.com/citations?user=R0Lrd0YAAAAJ&hl=en) for helping.
